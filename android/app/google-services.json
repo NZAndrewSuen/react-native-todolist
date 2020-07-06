@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740748536660",
+    "firebase_url": "https://my-to-do-react-native.firebaseio.com",
+    "project_id": "my-to-do-react-native",
+    "storage_bucket": "my-to-do-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740748536660:android:70951492e88bb38a0836c1",
+        "android_client_info": {
+          "package_name": "com.swen325_a2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740748536660-76kra0a00uu2pgis542bkelhp3sfprla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swen325_a2",
+            "certificate_hash": "1fabc2cd2ec046d02a982d7a8c6ba18fbf8854e7"
+          }
+        },
+        {
+          "client_id": "740748536660-cv601fcsfug91he9gri1klv92a4c9qbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgmjXAU0QsilMdoLcfIIMZCIjBoLYE8M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740748536660-cv601fcsfug91he9gri1klv92a4c9qbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
